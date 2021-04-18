@@ -19,10 +19,10 @@ The dataset contains images of alphabets from the American Sign Language. It is 
 8 Convolutional Neural Networks have been trained, validated and tested:
 * 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier.
 * 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier. 
-* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier.
+* 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier: https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/4Conv_1FC_Homework_Allegra_Saitta.ipynb
+* 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier: https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/4Conv_2FC_Homework_Allegra_Saitta.ipynb
+* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier: https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/5Conv_1FC_Homework_Allegra_Saitta.ipynb 
+* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier: https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/5Conv_2FC_Homework_Allegra_Saitta.ipynb
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier.
 
@@ -31,6 +31,6 @@ According the validation accuracy, the best among the trained CNNs has **5** con
 
 
 ## Datails
-For more information, see notebooks and report. 
+For more information, see notebooks and report (https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/Report_Homework1_Allegra_Saitta.pdf). 
 
 
