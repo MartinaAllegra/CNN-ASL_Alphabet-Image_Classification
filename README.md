@@ -1,4 +1,4 @@
-# <div align="center">CNN-ASL Alphabet- Image Classification</div>
+# <div align="center">ASL Alphabet - Image Classification</div>
 **<p align="center"> 1° project work of Knowledge Discovery course - UniCt </p>**
 ----
 
