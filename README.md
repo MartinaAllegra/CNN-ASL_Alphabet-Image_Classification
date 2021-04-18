@@ -16,7 +16,7 @@ The dataset contains images of alphabets from the American Sign Language. It is 
 4. In *file_update()* select your .json file.
 
 ## CNNs architecture
-8 Convolutional Neural Networks have been trained, validated and tested, starting with 3 convolutional layers and 1 fully connected layer:
+8 Convolutional Neural Networks have been trained, validated and tested:
 * 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier.
 * 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier.
