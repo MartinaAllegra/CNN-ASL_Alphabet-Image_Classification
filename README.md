@@ -21,10 +21,14 @@ The dataset contains images of alphabets from the American Sign Language. It is 
 * 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier.
+* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier. 
 * 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier.
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier.
+
+According the validation accuracy, the best among the trained CNNs has **5** convolutional layer and **1** fully connected layer:
+![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
+
 
 ## Datails
 For more information, see notebooks and report. 
