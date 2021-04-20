@@ -48,6 +48,6 @@ According the validation accuracy, the best among the trained CNNs has **5** con
 
 
 ## Datails
-For more information, see notebooks and report (https://github.com/MartinaAllegra/CNN-ASL_Alphabet-Image_Classification/blob/main/Report_Homework1_Allegra_Saitta.pdf). 
+For more information, see notebooks and report.
 
 
