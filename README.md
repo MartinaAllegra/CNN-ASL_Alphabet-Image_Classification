@@ -1,3 +1,7 @@
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/80890783/115367755-c4115980-a1c6-11eb-8f61-c50077775701.png" width="400">
+</p>
+
 # <div align="center">ASL Alphabet - Image Classification</div>
 **<p align="center"> 1° project work of Knowledge Discovery course - UniCt </p>**
 ----
