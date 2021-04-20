@@ -24,8 +24,15 @@ Both .ipynb notebooks and direct links on Colab are provided.
 ## CNNs architecture
 8 Convolutional Neural Networks have been trained, validated and tested:
 * 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier:
+
+
+https://colab.research.google.com/drive/1Ruecj4ob3eU8A-eCVtOdd0SYR3url6Gt?usp=sharing
 * 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier:
+
+
+https://colab.research.google.com/drive/1yjBlPK3JYBgnPfEmoADF-Y9VJbOxbK-M?usp=sharing
 * 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier:
+
  
   https://colab.research.google.com/drive/1kcPJ6JqNp0ISlefonXXl9-3CTNqX32Si?usp=sharing
 * 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier: 
@@ -41,8 +48,13 @@ Both .ipynb notebooks and direct links on Colab are provided.
 
   https://colab.research.google.com/drive/12OWa-QMeBP2RSXOXxZsKYcdk71pvQMBl?usp=sharing
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier:
+
+
+https://colab.research.google.com/drive/1i2N4EZrlJQqxut6liUgEx8yceHhoaOP4?usp=sharing
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier:
 
+
+https://colab.research.google.com/drive/1L7XlW3kxzl0Yt2zqJpp1QOaMYY0ezADH?usp=sharing
 According the validation accuracy, the best among the trained CNNs has **5** convolutional layers and **1** fully connected layer:
 ![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
 
