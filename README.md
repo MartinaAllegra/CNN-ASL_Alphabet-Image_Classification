@@ -55,6 +55,7 @@ https://colab.research.google.com/drive/1i2N4EZrlJQqxut6liUgEx8yceHhoaOP4?usp=sh
 
 
 https://colab.research.google.com/drive/1L7XlW3kxzl0Yt2zqJpp1QOaMYY0ezADH?usp=sharing
+
 According the validation accuracy, the best among the trained CNNs has **5** convolutional layers and **1** fully connected layer:
 ![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
 
