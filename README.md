@@ -19,14 +19,18 @@ Both .ipynb notebooks and direct links on Colab are provided.
 
 ## CNNs architecture
 8 Convolutional Neural Networks have been trained, validated and tested:
-* 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier.
-* 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier: https://colab.research.google.com/drive/1kcPJ6JqNp0ISlefonXXl9-3CTNqX32Si?usp=sharing
-* 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier: https://colab.research.google.com/drive/1eTIeqZJ4t96Wgm39e-_Pe3yzWsBmd5H8?usp=sharing
-* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier: https://colab.research.google.com/drive/1TRYt8j_CY-RKyqlO4Ld62wS3RC4GY8vK?usp=sharing
-* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier: https://colab.research.google.com/drive/12OWa-QMeBP2RSXOXxZsKYcdk71pvQMBl?usp=sharing
-* 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier.
-* 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier.
+* 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier:
+* 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier:
+* 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier: 
+* https://colab.research.google.com/drive/1kcPJ6JqNp0ISlefonXXl9-3CTNqX32Si?usp=sharing
+* 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier: 
+* https://colab.research.google.com/drive/1eTIeqZJ4t96Wgm39e-_Pe3yzWsBmd5H8?usp=sharing
+* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier: 
+* https://colab.research.google.com/drive/1TRYt8j_CY-RKyqlO4Ld62wS3RC4GY8vK?usp=sharing
+* 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier: 
+* https://colab.research.google.com/drive/12OWa-QMeBP2RSXOXxZsKYcdk71pvQMBl?usp=sharing
+* 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier:
+* 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier:
 
 According the validation accuracy, the best among the trained CNNs has **5** convolutional layer and **1** fully connected layer:
 ![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
