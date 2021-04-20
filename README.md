@@ -22,13 +22,13 @@ Both .ipynb notebooks and direct links on Colab are provided.
 * 1°+ 2°+ 3° Conv layer + 1° FC layer + Classifier:
 * 1°+ 2°+ 3° Conv layer + 1°+ 2° FC layer + Classifier:
 * 1°+ 2°+ 3°+ 4° Conv layer + 1° FC layer + Classifier: 
-* https://colab.research.google.com/drive/1kcPJ6JqNp0ISlefonXXl9-3CTNqX32Si?usp=sharing
+  https://colab.research.google.com/drive/1kcPJ6JqNp0ISlefonXXl9-3CTNqX32Si?usp=sharing
 * 1°+ 2°+ 3°+ 4° Conv layer + 1°+ 2° FC layer + Classifier: 
-* https://colab.research.google.com/drive/1eTIeqZJ4t96Wgm39e-_Pe3yzWsBmd5H8?usp=sharing
+  https://colab.research.google.com/drive/1eTIeqZJ4t96Wgm39e-_Pe3yzWsBmd5H8?usp=sharing
 * 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1° FC layer + Classifier: 
-* https://colab.research.google.com/drive/1TRYt8j_CY-RKyqlO4Ld62wS3RC4GY8vK?usp=sharing
+  https://colab.research.google.com/drive/1TRYt8j_CY-RKyqlO4Ld62wS3RC4GY8vK?usp=sharing
 * 1°+ 2°+ 3°+ 4°+ 5° Conv layer + 1°+ 2° FC layer + Classifier: 
-* https://colab.research.google.com/drive/12OWa-QMeBP2RSXOXxZsKYcdk71pvQMBl?usp=sharing
+  https://colab.research.google.com/drive/12OWa-QMeBP2RSXOXxZsKYcdk71pvQMBl?usp=sharing
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier:
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier:
 
