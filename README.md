@@ -60,7 +60,7 @@ According the validation accuracy, the best among the trained CNNs has **5** con
 ![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
 
 
-## Datails
+## Details
 For more information, see notebooks and report.
 
 
