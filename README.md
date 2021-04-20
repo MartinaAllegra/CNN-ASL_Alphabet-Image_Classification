@@ -43,7 +43,7 @@ Both .ipynb notebooks and direct links on Colab are provided.
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1° FC layer + Classifier:
 * 1°+ 2°+ 3°+ 4°+ 5°+ 6° Conv layer + 1°+ 2° FC layer + Classifier:
 
-According the validation accuracy, the best among the trained CNNs has **5** convolutional layer and **1** fully connected layer:
+According the validation accuracy, the best among the trained CNNs has **5** convolutional layers and **1** fully connected layer:
 ![Immagine2](https://user-images.githubusercontent.com/80890783/115155095-a20cbf80-a07e-11eb-90dd-2e3a01852e7b.png)
 
 
