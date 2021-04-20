@@ -13,9 +13,9 @@ The task was to solve a classification problem using Convolutional Neural Networ
 ## Dataset & Info
 The dataset contains images of alphabets from the American Sign Language. It is taken from https://www.kaggle.com/grassknoted/asl-alphabet. Specifically, 87,000 images are provided in 29 separate folders representing classes: 26 of which for the letters A-Z and 3 classes for Space, Delete and Nothing. 
 
-*Do you want to run the code?*
+*Do you want to be able to run the code?*
 1. Go to your Kaggle account, scroll to *API* section and click on *Create New API Token*. It will download *kaggle.json* file.
-2. Load the notebook on Google Colab.  
+2. Go to the notebook on Google Colab.  
 3. Run the first two cells.
 4. In *file_update()* select your .json file.
 
