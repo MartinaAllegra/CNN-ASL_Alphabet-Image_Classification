@@ -3,7 +3,7 @@
 </p>
 
 # <div align="center">ASL Alphabet - Image Classification</div>
-**<p align="center"> 1° project work of Knowledge Discovery course - UniCt </p>**
+**<div align="center">1° project work of Knowledge Discovery course</div>**
 ----
 
 ## Task
