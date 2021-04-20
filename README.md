@@ -7,7 +7,7 @@
 ----
 
 ## Task
-The homework was done by Martina Allegra and Susanna Saitta, as a project work for Knowledge Discovery course of Master degree in Data Science for Management (Unict). 
+The homework was done by Martina Allegra and Susanna Saitta (@SusannaSaitta), as a project work for Knowledge Discovery course of Master degree in Data Science for Management (Unict). 
 The task was to solve a classification problem using Convolutional Neural Network. 
 
 ## Dataset & Info
